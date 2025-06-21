@@ -1,0 +1,2 @@
+# Updates the adblock list every day at 3am
+0 3 * * * /bin/sh /root/adblock_dnsmasq.sh >> /root/adblock_update.log 2>&1 
