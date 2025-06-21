@@ -1,4 +1,4 @@
-# OpenWrt GL.iNET MiFi Ad Block & SD Overlay Scripts
+# OpenWrt GL.iNET MiFi Ad Block Fiber & SD Overlay Scripts
 
 [![Shell](https://img.shields.io/badge/language-shell-blue.svg)](https://www.gnu.org/software/bash/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
